@@ -1,0 +1,8 @@
+- numpy
+- pandas
+- matplotlib
+- LSTM
+- RNN
+- KNN
+- SVM (Support Vector Machine)
+- Random Forest
