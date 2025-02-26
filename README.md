@@ -33,7 +33,7 @@ The results obtained for each model are as follows:
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ayanstringer2002/Energy-Consumption
    ```
 2. Install required dependencies:
    ```bash
@@ -41,10 +41,10 @@ The results obtained for each model are as follows:
    ```
 3. Run the model training script:
    ```bash
-   python train_model.py
+   python ModelTraining.ipynb
    ```
 
 ## Conclusion
-The RNN model achieved the best performance in terms of both MAE and RMSE, making it the most suitable model for energy consumption prediction in this study.
+The LSTM model achieved the best performance in terms of both MAE and RMSE, making it the most suitable model for energy consumption prediction in this study.
 
 
